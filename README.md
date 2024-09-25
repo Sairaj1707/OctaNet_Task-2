@@ -2,7 +2,7 @@
 
 <p>This task was given by OctaNet Services Pvt Ltd. to create an simple to-do list.
 
-It is an simple landing page created using HTML, CSS & JavaScript.</p>
+It is an simple To-do page created using HTML, CSS & JavaScript.</p>
 
 <h2>Screenshots</h2>
 
